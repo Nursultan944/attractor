@@ -1,3 +1,18 @@
 .AuthMain {
   margin-top: 40px;
+  &_container {
+    &-signInGitHub {
+      button{
+        display: flex;
+        align-items: center;
+        span {
+          display: flex;
+          align-items: center;
+          img{
+            width: 25px;
+          }
+        }
+      }
+    }
+  }
 }

@@ -1,10 +1,13 @@
 <template>
-
+<div>
+  ascksbcjsqbcaKScblascbkaSc
+</div>
 </template>
 
 <script>
 export default {
-  name: "ttt"
+  name: 'profile',
+
 }
 </script>
 
